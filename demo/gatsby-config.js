@@ -13,7 +13,7 @@ module.exports = {
   },
   plugins: [
     {
-      resolve: `@pauliescanlon/gatsby-theme-terminal`,
+      resolve: `@doc22940/gatsby-theme-terminal`,
       options: {
         source: [`posts`, `projects`],
       },
